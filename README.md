@@ -2,7 +2,7 @@
 
 A crystal library to create irc client/bot/server.
 
-Works with crystal v0.23.0
+Works with crystal v0.24.0
 
 
 ## Installation
